@@ -1,0 +1,64 @@
+body{
+	background-color: #1F1D36;
+}
+h1{
+	color: #E9A6A6;
+	font-family: verdana;
+}
+#list1{
+	color: #E9A6A6;
+	font-family: verdana;
+}
+#list2{
+	color: #E9A6A6;
+	font-family: verdana;
+}
+#data1{
+	color: #1F1D36;
+	font-family: verdana;
+	text-align: center;
+}
+a{
+	color: #E9A6A6;
+	font-family: verdana;
+}
+.cream{
+	color: #E9A6A6;
+	font-family: verdana;
+}
+.peach{
+	color: #864879;
+	font-family: verdana;
+}
+input, textarea{
+	background-color: #864879;
+	color: #E9A6A6;
+}
+.table1{
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	background-color: #864879;
+}
+.center{
+	color: #E9A6A6;
+	font-family: verdana;
+	text-align: center;
+}
+.button{
+	background-color: #864879;
+	text-align: center;
+	border-radius: 12px;
+	color: #1F1D36;	
+	font-family: verdana;
+	font-weight: bold;
+}
+.violet{
+	color: #1F1D36;
+	font-family: verdana;
+}
+.about{
+	color: #E9A6A6;
+	font-family: verdana;
+	font-style: italic;
+}
